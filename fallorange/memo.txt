@@ -1,0 +1,11 @@
+チュートリアル一覧
+http://qiita.com/hp0me/items/55b784e9c616c52cab43
+
+Cocos2d-JSを触ってみた【BGM再生・キー入力・アニメーション・衝突判定】
+http://freedom-man.com/blog/cocos2d-js-etc1/
+
+号外！cocos2dで死者が歩く！(C)
+http://gushernobindsme.hatenablog.com/entry/2014/03/01/173316
+
+addChild
+http://ma3tk.hateblo.jp/entry/2015/01/14/001323
