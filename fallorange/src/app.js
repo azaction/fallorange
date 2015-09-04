@@ -15,6 +15,9 @@ var StageLayer = cc.Layer.extend({
         var size = cc.winSize;
         
         //char設定
+        var char01RightStop = cc.SpriteFrame(res.char01_png, cc.rect( 0, 0, 32, 48));
+        var char01LeftStop = cc.SpriteFrame(res.char01_png, cc.rect( 0, 0, 48, 96));
+        
         char01 = cc.Sprite(res.char01_png);
         char01.setPosition(0, 640-groundHeight);
         this.addchild(char01, 10);
